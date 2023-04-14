@@ -8,5 +8,9 @@ public class variabletypes {
         variabletypes t1 = new variabletypes();
         System.out.println(t1.x);
         System.out. println(variabletypes.y);
+        for (int z = 0; z<=5; z++){
+            System.out.println(z);
+        }
     }
 }
+// In the above example x is instant var y is static and z is local
