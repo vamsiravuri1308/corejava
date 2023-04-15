@@ -1,6 +1,6 @@
 public class Main {
 
-    public static void main(String[] args) {
+    static public void main(String[] args) {
 	// write your code here
         int x = 10;
         int y = 0x10;
@@ -8,3 +8,4 @@ public class Main {
         System.out.println(x+".."+y);
     }
 }
+// main method can be modified in such a way

@@ -15,3 +15,4 @@ public class variabletypes {
 }
 // In the above example x is instant var y is static and z is local
 // for local var only final modifier is applicable in case if we use any other modifiers it gives compile time error
+
