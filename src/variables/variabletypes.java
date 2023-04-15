@@ -2,12 +2,12 @@ package variables;
 
 public class variabletypes {
     int x = 10;
-    static int y = 20;
+    static int p = 20;
 
     public static void main(String[] args){
         variabletypes t1 = new variabletypes();
         System.out.println(t1.x);
-        System.out. println(variabletypes.y);
+        System.out. println(variabletypes.p);
         for (int z = 0; z<=5; z++){
             System.out.println(z);
         }
