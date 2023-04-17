@@ -1,6 +1,6 @@
 public class Main {
 
-    static public void main(String[] args) {
+    static public void main(String... args) {
 	// write your code here
         int x = 10;
         int y = 0x10;
