@@ -1,15 +1,15 @@
 package variables;
 
-public class variabletypes {
+public class VariableTypes {
     int x = 10;
     static int p = 20;
 
     public static void main(String[] args){
-        variabletypes t1 = new variabletypes();
-        System.out.println(t1.x);
-        System.out. println(variabletypes.p);
-        for (int z = 0; z<=5; z++){
-            System.out.println(z);
+        VariableTypes t1 = new VariableTypes();
+        //System.out.println(t1.x);
+        //.out. println(VariableTypes.p);
+        for (int z = 0; z< args.length; z++){
+            System.out.println(args[z]);
         }
     }
 }
