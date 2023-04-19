@@ -1,7 +1,7 @@
 package variables;
 
 public class VariableTypes {
-    int x = 10;
+    int x = 15;
     static int p = 20;
 
     public static void main(String[] args){
